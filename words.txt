@@ -1,0 +1,17 @@
+
+'the', 'i', 'to', 'a', 'and', 'it', 'of', 'you', 'that', 'in', 
+'is', 'was', 's', 't', 'my', 'for', 'have', 'but', 'this', 'with', 
+'on', 'not', 'they', 'me', 'be', 'or', 'just', 'so', 'like', 'if', 
+'he', 'your', 'are', 'at', 'as', 'she', 'can', 'we', 'm', 'all', 
+'out', 'about', 'her', 'up', 'when', 'there', 'what', 'one', 'because', 'people', 
+'from', 'would', 'don', 'get', 'do', 'had', 'an', 're', 'deleted', 'time', 
+'no', 'them', 'r', 'really', 'some', 'how', 'then', 'any', 'his', 'think', 
+'more', 'who', 'go', 'know', 'him', 'their', 'were', 'will', 'good', 'askreddit', 
+'please', 'by', 'has', 'only', 'post', 'did', 'even', 'new', 'after', 'been', 
+'got', 've', 'something', 'way', 'year', 'make', 'never', 'now', 'am', 'much', 
+'still', 'removed', 'than', 'too', 'message', 'other', 'd', 'here', 'being', 'into', 
+'also', 'shit', 'didn', 'life', 'first', 'going', 'could', 'well', 'back', 'show', 
+'over', 'years', 'off', 'com', 'say', 'friends', 'want', 'why', 'season', 'where', 
+'reddit', 'most', 'see', 'right', 'day', 'thing', 'fuck', 'things', 'love', 'before', 
+'bad', 'questions', 'pretty', 'very', 'which', 'always', 'll', 'made', 'our', 'actually', 
+'http', 'contact', '1', 'every', 'www', 'question', 'action', 'fucking', 'work', 'wedding'
